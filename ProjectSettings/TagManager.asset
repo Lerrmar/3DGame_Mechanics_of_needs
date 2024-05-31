@@ -9,6 +9,7 @@ TagManager:
   - Ground
   - Loader
   - Food
+  - Water
   layers:
   - Default
   - TransparentFX
